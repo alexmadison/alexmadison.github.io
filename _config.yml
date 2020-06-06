@@ -34,8 +34,8 @@ links:
     url: /
 #   - title: Series
 #     url: /series
-#   - title: Tags
-#     url: /tags
+  - title: Tags
+    url: /tags
   - title: About Me
     url: /about
 
