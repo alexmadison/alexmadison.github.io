@@ -2,18 +2,6 @@
 layout: post
 title: "MarioMaps"
 date: 2020-07-03 19:26:22
-image: '/posts/mariomaps/world.gif'
-description:
-tags:
-- procgen
-- art
-categories:
-twitter_text:
----
----
-layout: post
-title: "MarioMaps"
-date: 2020-07-03 19:26:22
 image: '/assets/img/mariomaps/world.gif'
 description:
 tags:
